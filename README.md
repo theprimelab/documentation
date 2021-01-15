@@ -10,7 +10,7 @@ You can also join our Discord [here](https://discord.gg/NwhNvKc).
 
 ## Equipment
 
-Coming soon!
+[Equipment status](status.md)
 
 ## Services
 
