@@ -14,4 +14,10 @@
 - Wipe down all tables, chairs, keyboards, and other equipment after use.
 - Maintain social distance. While there is an 8 person limit in the room, please try to keep it to 5 or less if possible.
 - If You bring food, please sit by yourself at least 10 feet away from anyone else in the room.
-- VR is currently not available, we will only make exceptions for schoolwork if it is absolutely necessary
+- VR is currently not available, we will only make exceptions for schoolwork if it is absolutely necessary.
+
+## Documentation guidelines
+
+- Keep all writing clean and to the point. This repo should essentially operate like a wiki for prime lab info with some brief tutorials.
+- Images should be no larger than 1024x1024 unless the original resolution is needed. Exceptions should be made for screenshots.
+- Screenshots should be cropped to only include relevant information.

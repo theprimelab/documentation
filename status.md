@@ -14,4 +14,4 @@ This is a list of everything that is currently busted in the lab. If any of this
 
 # Misc.
 
-- The digital whiteboard sucks, we know. There is a new physical whiteboard on its way, and should be installed in a few weeks.
+- The digital whiteboard sucks, we know. There is a new physical whiteboard in the lab, it should be getting installed fairly soon.
