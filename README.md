@@ -8,14 +8,27 @@ You can also join our Discord server [here](https://discord.gg/NwhNvKc).
 
 [Rules](rules.md)
 
+## Tutorials and Resources
+
+- [Development basics](devbasics.md)
+
 ## Equipment
 
 [Equipment status](status.md)
+
+### 3D Printing
+
+- [Prusa MK3S](3dprinting/prusamk3s.md)
 
 ### Electronics
 
 - [Rework station](solder/rework.md)
 - [Fume extractor](solder/fumeextractor.md)
+
+### VR
+
+- [Valve Index](vr/index.md)
+- [HTC Vive](vr/vive.md)
 
 ## Services
 
