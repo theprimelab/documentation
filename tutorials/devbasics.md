@@ -12,13 +12,13 @@ VS Code is a popular text editor that, with extensions, can be converted into an
 
 ### Themes
 
-These are extensions that change the look and feel of the editor. These are usually just color swaps or icon packs.
+Themes are extensions that change the look and feel of the editor. These are usually just color swaps or icon packs.
 
 
 
 ### Snippets
 
-These are language specific, normally unofficial plugins that give you a list of one line phrases that can autocomplete into useful blocks of code.
+Snippets are language or library specific plugins that give you a list of short phrases that autocomplete into large blocks of boilerplate code.
 
 
 
@@ -32,6 +32,8 @@ These extensions add functionality that is usually associated with an IDE. VS co
 
 Some extensions that don't really fit into one category 
 
+
+
 ## [IntelliJ Idea](https://www.jetbrains.com/idea/)
 
-IntelliJ Idea is an IDE by JetBrains that is primarily used for JVM based languages such as Java. It also has support for a variety of other languages, and is what Android Studio is based on.
+IntelliJ Idea is an IDE by JetBrains that is primarily used for JVM based languages such as Java and Kotlin. It also has support for a variety of other languages, and is what Android Studio is based on.

@@ -10,9 +10,11 @@ You can also join our Discord server [here](https://discord.gg/NwhNvKc).
 
 ## Tutorials and Resources
 
-- [Development basics](devbasics.md)
+- [Development basics](tutorials/devbasics.md)
+- [VR Development](tutorials/vr.md)
+- [The Big Book of Free Stuff](freestuff.md)
 
-## Equipment
+## Equipment Documentation
 
 [Equipment status](status.md)
 
